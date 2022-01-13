@@ -7,7 +7,7 @@
 
 ## Hi there 🌊!
 
-I'm 0x1a8510f2. I live in the interwebs and enjoy hunting bugs in my spare time (they're slimy, yet satisfying). This profile contains a range of my work, mostly completed in my spare time with my community hat on (though I sometimes wear other hats, most of them grey), which means that much of my work is freely available under a variety of open-source licenses. Feel free to look around, or read on for a summary of what I've been up to.
+I'm 0x1a8510f2. I live in the interwebs and enjoy hunting bugs in my spare time (they're slimy, yet satisfying). This profile contains a range of my work, mostly completed in my spare time with my community hat on (I sometimes wear other hats, most of them grey), which means that much of my work is freely available under a variety of open-source licenses. Feel free to look around, or read on for a summary of what I've been up to.
 
 ## Interesting Projects 🚧
 
