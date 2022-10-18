@@ -25,4 +25,4 @@ I'm 0x1a8510f2 (read: [Dave](https://matrix.to/#/!tgDWJZIiwNLhwJzccm:matrix.org/
 
 ## GitHub Stats 🗒
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=0x1a8510f2&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=272" /><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1a8510f2&theme=dark&title_color=272&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=0x1a8510f2&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=272" /><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1a8510f2&theme=dark&title_color=272&layout=compact" />
