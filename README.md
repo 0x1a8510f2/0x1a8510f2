@@ -7,7 +7,7 @@
 
 ## Hi there 🌊!
 
-I'm 0x1a8510f2 (read: [Dave](https://matrix.to/#/!tgDWJZIiwNLhwJzccm:matrix.org/$8ex3Kfta_gtnLGIiiefg-v_HryRe-BzK_NbsTQFyu-k?via=l1qu1d.net&via=mozilla.org&via=geraghty.london)). I currently reside somewhere in the ether (it's a decent song too). I enjoy hunting bugs in my spare time (they're slimy, yet satisfying). This profile contains a range of my work, mostly completed for fun with my community hat on (I sometimes wear other hats; my favourite is grey), which means that much of my work is freely available under a variety of open-source licenses. Feel free to look around, or read on for a summary of what I've been up to.
+I'm 0x1a8510f2 (read: [Dave](https://matrix.to/#/!tgDWJZIiwNLhwJzccm:matrix.org/$8ex3Kfta_gtnLGIiiefg-v_HryRe-BzK_NbsTQFyu-k?via=l1qu1d.net&via=mozilla.org&via=geraghty.london)). I currently reside somewhere in the ether (it's a decent song too). This profile contains a range of my work, mostly completed for fun with my community hat on (I sometimes wear other hats; my favourite is grey), which means that much of my work is freely available under a variety of open-source licenses. Feel free to look around, or read on for a summary of what I've been up to.
 
 ## Interesting Projects 🚧
 
