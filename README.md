@@ -19,9 +19,8 @@ I'm 0x1a8510f2 (read: [Dave](https://matrix.to/#/!tgDWJZIiwNLhwJzccm:matrix.org/
 ## Links 🔗
 
 - https://0x1a8510f2.space [ My Homepage ]
-- https://git.0x1a8510f2.space [ Self-hosted git server - sometimes hosts some projects of mine which are not on GH ]
-- https://dev.l1qu1d.net/0x1a8510f2 [ New self-hosted git server to which I'm gradually migrating ]
-- https://matrix.to/#/@0x1a8510f2:0x1a8510f2.space [ My Matrix account where I can be contacted ]
+- https://dev.l1qu1d.net/0x1a8510f2 [ My non-GH git host which sometimes contains work of mine that isn't available on GH ]
+- https://matrix.to/#/@0x/:l1qu1d.net [ My Matrix account where I can be contacted ]
 
 ## GitHub Stats 🗒
 
