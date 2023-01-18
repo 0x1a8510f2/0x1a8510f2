@@ -21,7 +21,3 @@ I'm 0x1a8510f2 (read: [Dave](https://matrix.to/#/!tgDWJZIiwNLhwJzccm:matrix.org/
 - https://0x1a8510f2.space [ My Homepage ]
 - https://dev.l1qu1d.net/0x1a8510f2 [ My non-GH git host which sometimes contains work of mine that isn't available on GH ]
 - https://matrix.to/#/@0x/:l1qu1d.net [ My Matrix account where I can be contacted ]
-
-## GitHub Stats 🗒
-
-<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=0x1a8510f2&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=272" /><img align="right" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1a8510f2&include_all_commits=true&count_private=true&theme=dark&title_color=272&layout=compact" />
